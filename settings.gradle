@@ -1,0 +1,2 @@
+include ':app', ':hw18'
+rootProject.name='Android_hw18'
